@@ -1,4 +1,5 @@
 name: Package
+# Preview branch: runs on the fork too.
 
 # Separate from CI on purpose: that job answers "do the tests pass", this one
 # answers "can somebody run this without a Mac dev setup". Tying them together
